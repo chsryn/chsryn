@@ -25,7 +25,7 @@
 
 ## TECH STACK 
 
-| Category | Technologies / Platform |
+| Category | Technologies |
 | :--- | :--- |
 | **Languages** | JavaScript, PHP, Dart, HTML5, CSS3, SQL |
 | **Frameworks & Libraries** | React, Node.js, Next.js, Laravel, Tailwind CSS |
