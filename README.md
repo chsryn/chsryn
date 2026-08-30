@@ -23,7 +23,7 @@
 
 ---
 
-## TECH STACK & GAMING
+## TECH STACK 
 
 | Category | Technologies / Platform |
 | :--- | :--- |
