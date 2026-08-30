@@ -1,10 +1,11 @@
 <div align="center">
 
-# Hello I'm Chasryn
+# 𝙷𝚎𝚕𝚕𝚘 𝙸'𝚖 𝙲𝚑𝚊𝚜𝚛𝚢𝚗
+### 𝖨𝗇𝖿𝗈𝗋𝗆𝖺𝗍𝗂𝗈𝗇 𝖲𝗒𝗌𝗍𝖾𝗆𝗌 | 𝖲𝗈𝖿𝗍𝗐𝖺𝗋𝖾 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋
+ <!-- <br/> -->
 
-### Information Systems | Software Developer
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chasryn) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email@example.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/USERNAME_INSTAGRAM) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/DISCORD_USER_ID) [![Steam](https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/chasryn) [![Valorant](https://img.shields.io/badge/Valorant-FF4655?style=for-the-badge&logo=valorant&logoColor=white)](https://tracker.gg/valorant/profile/riot/Chasryn%23143/overview)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syachran-niode-78a364418/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alan.niode) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syachran.nd@gmail.com) [![Valorant](https://img.shields.io/badge/Valorant-FF4655?style=for-the-badge&logo=valorant&logoColor=white)](https://tracker.gg/valorant/profile/riot/Chasryn%23143/overview) [![Steam](https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/chasryn) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/chasryn)
 <br/>
 
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YzRyZGFybHN5ZGtzODQ1M3dsNzNkb256Y3l2NWV0eGxjMGE3NTJ6NyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/e2HHUuc4x2VaHIhjlf/giphy.gif"/>
