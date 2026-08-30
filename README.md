@@ -27,8 +27,8 @@
 
 | Category                   | Technologies                                   |
 | :------------------------- | :--------------------------------------------- |
-| **Languages**              | JavaScript, PHP, HTML5, CSS3, SQL              |
-| **Frameworks & Libraries** | React, Node.js, Next.js, Laravel, Tailwind CSS |
+| **Languages**              | JavaScript, PHP, HTML5, CSS3, Dart, SQL              |
+| **Frameworks & Libraries** | React, Node.js, Next.js, Laravel, Flutter, Tailwind CSS |
 | **Databases**              | MySQL, PostgreSQL, MongoDB                     |
 | **Tools**                  | Git, GitHub, VS Code, Postman, Docker          |
 
