@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YnZ6M3dwbGM3MTN6eTM5NzF2MDUwbHBmbjl4MXFuZzJnMm9qdWR3ZiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/13TdMFTIORb9aU/giphy.gif" width="500px" alt="Coding GIF"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YzRyZGFybHN5ZGtzODQ1M3dsNzNkb256Y3l2NWV0eGxjMGE3NTJ6NyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/e2HHUuc4x2VaHIhjlf/giphy.gif"/>
 
 </div>
 
@@ -30,7 +30,7 @@
 | **Languages**              | JavaScript, PHP, HTML5, CSS3, Dart, SQL              |
 | **Frameworks & Libraries** | React, Node.js, Next.js, Laravel, Flutter, Tailwind CSS |
 | **Databases**              | MySQL, PostgreSQL, MongoDB                     |
-| **Tools**                  | Git, GitHub, VS Code, Postman, Docker          |
+| **Tools**                  | Git, GitHub, VS Code, Postman, Docker, Valorant          |
 
 ---
 
