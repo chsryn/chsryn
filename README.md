@@ -29,8 +29,8 @@
 | :--- | :--- |
 | **Languages** | JavaScript, PHP, Dart, HTML5, CSS3, SQL |
 | **Frameworks & Libraries** | React, Node.js, Next.js, Laravel, Flutter, Tailwind CSS |
-| **Databases** | MySQL, PostgreSQL, MongoDB |
-| **Tools** | Git, GitHub, VS Code, Postman, Docker |
+| **Databases** | MySQL, PostgreSQL, Express.js, MongoDB |
+| **Tools** | Git, GitHub, VS Code, Vite, Postman, Docker |
 
 ---
 
