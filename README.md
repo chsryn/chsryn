@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Chasryn
+# Hi, I'm Chasryn👋
 ### 𝖨𝗇𝖿𝗈𝗋𝗆𝖺𝗍𝗂𝗈𝗇 𝖲𝗒𝗌𝗍𝖾𝗆𝗌 | 𝖲𝗈𝖿𝗍𝗐𝖺𝗋𝖾 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋
  <!-- <br/> -->
 
