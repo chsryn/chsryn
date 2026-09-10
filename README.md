@@ -16,7 +16,7 @@
 
 ## ABOUT ME
 
-- Currently studying Information Systems & Cybersecurity
+- Currently studying Information Systems 
 - Focused on Software Engineering, Web-Dev, and System Design Architecture.
 - Dedicated to building clean, maintainable code and learning modern software architecture.
 - Open to open-source collaborations and software development opportunities.
